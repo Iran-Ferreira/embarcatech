@@ -1,0 +1,13 @@
+.vscode
+
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Diretórios de build
+build/
+/bin/
+/obj/
+/Debug/
+/Release/
